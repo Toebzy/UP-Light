@@ -1,11 +1,12 @@
 # UP-Light
 
 ## Gamified Food Tracker App - GFT
--Bruger
--Eksperter
--Betalingsmulighed (subscription / ads / affiliate)
--Admin
+### -Bruger
+### -Eksperter
+### -Betalingsmulighed (subscription / ads / affiliate)
+### -Admin
 
+#
 
 ### UC1: Opret personligt mål
 Primær Aktør: Bruger
@@ -24,7 +25,7 @@ Primær Aktør: GFT
 Forudsætninger: Brugeren har oprettet en konto, er logget ind og har indtastet personlige informationer om sig selv. Personligt mål er oprettet.
 Brief: GFT beregner anbefalet kost baseret på brugerens personlige mål og de indtastede personlige oplysninger.
 
-
+#
 
 Tobias Carlsen - cph-tc183@cphbusiness.dk
 
