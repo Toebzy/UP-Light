@@ -62,8 +62,10 @@ Forudsætninger: Brugeren har oprettet en konto og er logget ind.\
 Brief: En avatar vil være et sted på skærmen, denne avatar bliver vist på forskellige måder ud fra hvor ofte brugeren har indtastet mad, hvis brugeren er god til at indtaste mad, har gnoxien det godt, hvis brugeren glemmer at indtaste mad i 2-3 dage, dør gnoxien.
 
 ## Domæne Diagram:
+![image](https://github.com/Toebzy/UP-Light/assets/113095884/33c53d28-c5d6-4d9a-92ad-1d796d5809e1)
 
 ## Klasse Diagram:
+![image](https://github.com/Toebzy/UP-Light/assets/113095884/f1bd817f-971d-4106-8a51-f196122c8f4a)
 
 
 # Use Case 1: Opret personlig mål
